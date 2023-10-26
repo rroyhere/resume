@@ -1,12 +1,37 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Architecture, Design Tools
+  description: C4 model (4 C’s), Visio, Sparx, Confluence, gliffy, Lucid Charts
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Architectural and design patterns
+  description: Composition, Microservice, Event driven, Broker, Layered, Lambda, Kappa, Domain driven, Observer, Adapter, Operator, Observer, Signleton, Listener, MVC
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Programming Languages
+  description: Java, Python, gRPC, Scala, GO, NodeJS
+
+- skill: Streaming / MQ
+  description: Apache/Confluent Kafka,RabbitMq,HornetQ,{Pulsar, RedPanda – evaluation
+- skill: Tools (esb, devops, gitops, declarative)
+  description: ArgoCD, Crossplane, Terraform, Splunk, Dynatrace, monit, Nagios, Appdynamics, SupervisorD
+- skill: Optimized Data Formats
+  description: Avro, Parquet, ORC, Protobuf, cloudevents (event data spec for cloud)
+
+- skill: Geo Spatial Data formats, DBs
+  description: Shp, MapInfo tab data for geospatial vector format data, PostGIS DB
+- skill: Observability, Monitoring, Agent
+  description: Open Telemetry, OTEL, Service Mesh (Istio), Prometheus, grafana, kibana, FluentD,
+- skill: Orchestration, Frameworks
+  description: Kubernetes, CoreDNS, PCF, Istio, Spring, Spark
+- skill: Distributed Processing
+  description: Hadoop(Apache, Cloudera), Spark, Storm, Kafka streaming, Flink, Ignite
+
+- skill: NoSQL, D-Cache, Search
+  description: MongoDB, Cassandra, ETCD, Redis, Guava Cache, EhCache, Elastic
+- skill: ML Tools and package familiarity
+  description: Keras, Tensorflow, Scikit Learn, Weka, Colab, Jupyter, Zeppelin, H2O.ai
+- skill: DevSecOps
+  description: Jenkins, SonaQube, AquaSec Tracee, Trivy, Falco, AppArmor, Seccomp, Kubesec, kube-bench, Helm, Terraform, Ansible, Istio, GitOps, progressive delivery, blue-green, canary, feature flag.
+- skill: Cloud Networking, gateway, mesh
+  description: Calico, Cilium, eBPF, gloo mesh, gloo gateway, istio
