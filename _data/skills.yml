@@ -12,7 +12,7 @@
   description: Java, Python, gRPC, Scala, GO, NodeJS
 
 - skill: Streaming / MQ
-  description: Apache/Confluent Kafka,RabbitMq,HornetQ,{Pulsar, RedPanda – evaluation
+  description: Apache/Confluent Kafka,RabbitMq,HornetQ, Pulsar, RedPanda (evaluation only)
 - skill: Tools (esb, devops, gitops, declarative)
   description: ArgoCD, Crossplane, Terraform, Splunk, Dynatrace, monit, Nagios, Appdynamics, SupervisorD
 - skill: Optimized Data Formats

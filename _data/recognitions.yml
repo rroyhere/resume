@@ -1,10 +1,15 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Certified Kubernetes Administrator
+  organization: Clound native computing foundation
+  #year: 2010, 2014
+  summary: https://www.credly.com/badges/258a4563-7c93-4cbe-b054-c3cf87d60570
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Certified Kubernetes Application Developer
+  organization: Clound native computing foundation
+  #year: 2010, 2014
+  summary: https://www.credly.com/badges/0fa9af7b-f1fa-4dcd-b49d-501a138dd17d
+
+- award: Certified Kubernetes Security Specialist
+  organization: Clound native computing foundation
+  #year: 2010, 2014
+  summary: https://www.credly.com/badges/3cc6945b-be2b-4868-bf5e-bb2e09b79fb3/public_url
