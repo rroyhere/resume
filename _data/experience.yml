@@ -1,28 +1,50 @@
 # Jobs
 
 # Senior Principal Software Architect
-- company: Fair, Isaac and Company
+- company: Fair Isaac and Company
   position: Senior Principal Software Architect
   duration: Feb, 2022 &mdash; Present
   summary: "Working as Enterprise Architect as part of Technical Enterprise Architecture groupn within FICO focussing on the new multi cloud platform machine learning, origination, simulation, transaction fraud products\t<ul class=\"resume-item-list\"><li>Received highest year end rating for outstanding performance throughout the year. Also received spot award for exemplary performance in architecture and solving engineering problems</li><li>Multi cloud control plane technology framework design, implementation with kube native declarative approach driven composition. Decomposed FICO product functions and composed with new capabilities & aspects. Composition impl of declarative infrastructure provisioning, deployment, progressive delivery with blue-green, canary, experimentation, feature flag etc.</li>Enterprise architecture for Authoring in cloud and deployment + execution on-prem or multi cloud at various segmentation units (tenants) within or across organizational units (clients)</li><li>Advance network CNI usage with calico/cilium with eBPF for better utilization of host level resources, optimal return packet transport and other benefits</li><li>Engineering activities with EKS, Kubernetes security, event driven micro services, AuthN/AuthZ with platform centricity, Istio, mTLS, GitOps, Cloud native control plane framework, POC validation on Pulsar, Red panda</li></ul>"
 
 
 # Principal Architect
-- company: Cognizant Technology Solution
+- company: Cognizant Technology Solutions
   clients: JPMorgan Chase (Merchant Payment Tech, GTI), Discover, Corelogic
-  position: Principal Architect
+  position: Principal Software Architect
   duration: Aug, 2016 &mdash; Nov 2021
   summary: "Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points\t<ul class=\"resume-item-list\"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>"
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration: Jun, 2010 &mdash; Sept, 2013
+# Senior Scientist
+- company: FICO
+  position: Senior Scientist
+  duration: 2016 &mdash; 2016
   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration: Jun, 2008  &mdash; May, 2010
+# Senior Architect
+- company: Wipro Technologies
+  client: Capital One
+  position: Senior Software Architect
+  duration: 2015  &mdash; 2016
   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+
+# Product Architect
+- company: Altisource Labs
+  position: Product Architect
+  duration: 2014  &mdash; 2015
+  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+
+# Software Architect
+- company: Cognizant Technology Solutions
+  clients: JPMorgan Chase (Wealth Management), United Health Group
+  position: Software Architect
+  duration: 2006 &mdash; 2013
+  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+
+# Software engineer
+- company: Infosys Technologies
+  clients: ABN-AMRO
+  position: Software Engineer
+  duration: 2004 &mdash; 2006
+  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+
